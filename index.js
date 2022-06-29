@@ -8,7 +8,7 @@ const closeBtn = document.getElementById("close");
 const data = [
   {
     image: "./img/water-3853492_1920.jpg",
-    text: "I'm Thirty",
+    text: "I'm Thirsty",
   },
   {
     image: "./img/1655465795437.jpg",
